@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p156518-e1658218.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/mysite/main"
+    url: "https://author-p156518-e1658218.adobeaemcloud.com/bin/franklin.delivery/karljay7/phoenix/main"
     type: "markup"
     suffix: ".html"
